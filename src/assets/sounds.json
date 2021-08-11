@@ -1,0 +1,47 @@
+{
+  "Q": {
+    "soundName": "Heater 1",
+    "soundId": "Heater-1",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3"
+  },
+  "W": {
+    "soundName": "Heater 2",
+    "soundId": "Heater-2",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3"
+  },
+  "E": {
+    "soundName": "Heater 3",
+    "soundId": "Heater-3",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3"
+  },
+  "A": {
+    "soundName": "Heater 4",
+    "soundId": "Heater-4",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3"
+  },
+  "S": {
+    "soundName": "Clap",
+    "soundId": "Clap",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3"
+  },
+  "D": {
+    "soundName": "Open HH",
+    "soundId": "Open-HH",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3"
+  },
+  "Z": {
+    "soundName": "Kick n' Hat",
+    "soundId": "Kick-n'-Hat",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3"
+  },
+  "X": {
+    "soundName": "Kick",
+    "soundId": "Kick",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3"
+  },
+  "C": {
+    "soundName": "Closed HH",
+    "soundId": "Closed-HH",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3"
+  }
+}
